@@ -1,0 +1,4 @@
+rootProject.name = 'data-model-extension-starter-2-4-0'
+
+includeBuild 'application'
+includeBuild 'inventory-control-system'
